@@ -1,0 +1,13 @@
+# Ignore virtual env
+rag_env/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# FAISS index and metadata (optional)
+*.faiss
+*.json
+
+# Ignore VS Code workspace settings (optional)
+.vscode/
